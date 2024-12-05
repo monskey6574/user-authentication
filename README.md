@@ -1,4 +1,4 @@
-# Secure Sign-In System
+# Secure Sign-In & Sign-Up 
 
 A user authentication system built using **Node.js**, **Express.js**, **MongoDB**, and **React.js**. This project includes features like user registration, login, and JWT-based authentication.
 
