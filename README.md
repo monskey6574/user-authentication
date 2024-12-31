@@ -20,10 +20,6 @@ A user authentication system built using **Node.js**, **Express.js**, **MongoDB*
 
 ---
 
-## Installation and Setup
 
-### Prerequisites
-- Node.js and npm/yarn installed
-- MongoDB server or MongoDB Atlas
 
 
